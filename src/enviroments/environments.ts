@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    endpoint: 'https://crud-angular-ecru-alpha.vercel.app/'
+    endpoint: 'https://node-api-rest-mysql-ten.vercel.app/'
   };
